@@ -1,0 +1,3 @@
+Title: Cancer Screening Guidelines
+
+Early detection through screening can significantly improve cancer outcomes. Mammograms are recommended for breast cancer screening in women aged 50-74. Colonoscopy is recommended for colorectal cancer screening starting at age 50. Pap smears are used for cervical cancer screening in women aged 21-65. Lung cancer screening with low-dose CT is recommended for high-risk individuals with smoking history.

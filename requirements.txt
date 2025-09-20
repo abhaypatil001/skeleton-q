@@ -1,0 +1,11 @@
+# Core RAG System Dependencies
+pandas==2.1.3
+numpy==1.24.3
+scikit-learn==1.3.2
+
+# Evaluation Dependencies  
+rouge-score==0.1.2
+nltk==3.8.1
+
+# UI Dependencies (Optional)
+streamlit==1.28.1

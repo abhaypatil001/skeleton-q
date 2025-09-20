@@ -1,0 +1,10 @@
+{
+  "query": "What is the treatment for hypertension?",
+  "response": [
+    "doc_0.txt",
+    "doc_1.txt",
+    "doc_2.txt",
+    "doc_3.txt",
+    "doc_4.txt"
+  ]
+}
